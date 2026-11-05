@@ -41,7 +41,7 @@ I build Roblox systems, interfaces and gameplay, and I make websites with React 
   <img src="assets/btn-discord.png" width="240" alt="Discord 6b617a" />
   <a href="https://www.roblox.com/users/profile?username=kazcodepro"><img src="assets/btn-roblox.png" width="240" alt="Roblox" /></a>
   <a href="https://github.com/kazcodepro"><img src="assets/btn-github.png" width="240" alt="GitHub" /></a>
-  <img src="assets/btn-commissions.png" width="240" alt="Open for commissions" />
+  <a href="https://kazcodepro.github.io"><img src="assets/btn-commissions.png" width="240" alt="Open for commissions — kazcodepro.github.io" /></a>
 </p>
 
 <img src="assets/footer.png" width="100%" alt="thanks for stopping by" />
